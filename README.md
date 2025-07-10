@@ -1,6 +1,6 @@
 # Test Paper Management System
 
-This is a Python project I worked on for a school assignment. The system allows users to manage students, courses, and a question bank. After setting up the data, the user can generate a test paper based on selected courses and students.
+This is a Python project my teammates and I worked on for a school assignment. The system allows users to manage students, courses, and a question bank. After setting up the data, the user can generate a test paper based on selected courses and students.
 
 ## Features
 
